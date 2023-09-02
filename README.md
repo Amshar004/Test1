@@ -91,3 +91,9 @@ If you have any questions, suggestions, or encounter any issues, please feel fre
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### :star2: * * *
+
+---
+
+> #### Note: You can customize the dividers and styling as per your preference.
