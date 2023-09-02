@@ -72,7 +72,7 @@ Here's an example of how the program works:
 
 
 
-- **Enter full name of student 2:** Bob Davis
+- **Enter full name of student 2:** Dennis Ritchie
 - **Enter roll number for Bob Davis:** 102
 
 
