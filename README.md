@@ -77,14 +77,14 @@ Here's an example of how the program works:
 
 
 
-- **Enter full name of student 3:** Carol Brown
+- **Enter full name of student 3:** Bjarne Stroustrup 
 - **Enter roll number for Carol Brown:** 103
 
 
 
 - **Megh Bari [101] is present (P) or absent (A) for C Programming ?** P
-- **Bob Davis [102] is present (P) or absent (A) for C Programming?** A
-- **Carol Brown [103] is present (P) or absent (A) for C Programming?** P
+- **Dennis Ritchie[102] is present (P) or absent (A) for C Programming?** P
+- **Bjarne Stroustrup [103] is present (P) or absent (A) for C Programming?** A
 
 
 
