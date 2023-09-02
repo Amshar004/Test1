@@ -92,7 +92,8 @@ Here's an example of how the program works:
 
 
 - **Do you want to continue (1 for Yes, 0 for No)? 0**
-- Example:
+- **Example:**
+- 
   ![C_Programming Attendance](https://github.com/megh-bari/Attendance-Management-System/assets/142393952/dba7558f-806d-46ac-b375-38cf8322e387)
 
 ## Contact Us:
