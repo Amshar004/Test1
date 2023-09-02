@@ -61,7 +61,7 @@ To use this program, follow these steps:
 ##  Example:
 Here's an example of how the program works:
 
-- Enter the teacher's name: Code With Harry
+-- Enter the teacher's name: Code With Harry
 - Enter the subject: C Programming
 - Enter the number of students in the class: 3
 
@@ -92,8 +92,3 @@ If you have any questions, suggestions, or encounter any issues, please feel fre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### :star2: * * *
-
----
-
-> #### Note: You can customize the dividers and styling as per your preference.
