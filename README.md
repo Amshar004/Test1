@@ -61,7 +61,7 @@ To use this program, follow these steps:
 ##  Example:
 Here's an example of how the program works:
 
--  **Enter the teacher's name:** - Code With Harry
+-  **Enter the teacher's name:**  Code With Harry
 -  **Enter the subject:** C Programming
 -  **Enter the number of students in the class:** 3
 
