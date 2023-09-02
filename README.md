@@ -61,14 +61,14 @@ To use this program, follow these steps:
 ##  Example:
 Here's an example of how the program works:
 
-- **Enter the teacher's name:** Code With Harry
-- **Enter the subject:** C Programming
-- **Enter the number of students in the class:** 3
+-  **Enter the teacher's name:** - Code With Harry
+-  **Enter the subject:** C Programming
+-  **Enter the number of students in the class:** 3
 
 
 
-- Enter full name of student 1: Megh Bari
-- Enter roll number for Megh Bari: 101
+-  Enter full name of student 1: Megh Bari
+-  Enter roll number for Megh Bari: 101
 
 
 
